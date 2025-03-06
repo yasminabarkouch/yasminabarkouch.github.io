@@ -1,9 +1,9 @@
 # Data Analyst
 
-###Education
+### Education
 Degree in computer science
 
-###Work Experience
+### Work Experience
 IT Specialist
 - task1
 - task2
