@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yasmina – Data Enthusiast & Problem Solver
+## Hi, I'm Yasmina – Data Enthusiast & Problem Solver
 
 Analyzed e-commerce and customer data to drive a 5% revenue increase and improve customer satisfaction by 20%, leveraging social media analytics and performance metrics. I bring a strong blend of IT systems experience and formal training in data analysis using IBM and Microsoft tools. My goal is to translate complex data into strategic insights that support smarter business decisions.
 
