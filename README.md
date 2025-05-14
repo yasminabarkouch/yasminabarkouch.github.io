@@ -27,6 +27,19 @@ Analyzed e-commerce and customer data to drive a 5% revenue increase and improve
 
 ---
 
+### 📂 Portfolio Projects
+Here are a few projects I've worked on:
+
+🔹 [**Bike Sales Excel Analysis**](https://github.com/yasminabarkouch/bike-sales-excel-analysis)  
+Explored customer data to analyze bike buying patterns by age, gender, income, and commute distance using Excel dashboard tools.
+https://github.com/yasminabarkouch/bike-sales-excel-analysis/blob/main/Bike_Sales-Dashboard.png
+
+🔹 [Power BI Sales Dashboard](#) *(coming soon)*  
+Interactive Power BI report with KPIs and filters.
+
+🔹 [Python Data Cleaning Project](#) *(coming soon)*  
+Used Pandas to clean and explore messy datasets.
+
 ## 💼 Work Experience
 
 ### 🛒 E-Commerce Business Owner  
@@ -51,3 +64,5 @@ Analyzed e-commerce and customer data to drive a 5% revenue increase and improve
 
  **Let’s connect!**  
 Feel free to reach out if you're interested in data projects, dashboards, or collaborating on real-world analytics challenges.
+📧 LinkedIn: www.linkedin.com/in/yasminabarkouch
+Thanks for visiting my profile!
