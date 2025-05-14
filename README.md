@@ -32,6 +32,7 @@ Here are a few projects I've worked on:
 
 🔹 [**Bike Sales Excel Analysis**](https://github.com/yasminabarkouch/bike-sales-excel-analysis)  
 Explored customer data to analyze bike buying patterns by age, gender, income, and commute distance using Excel dashboard tools.
+![Dashboard Screenshot](bike-sales-excel-analysis/blob/main/Bike_Sales-Dashboard.png) 
 (https://github.com/yasminabarkouch/bike-sales-excel-analysis/blob/main/Bike_Sales-Dashboard.png)
 
 🔹 [Power BI Sales Dashboard](#) *(coming soon)*  
