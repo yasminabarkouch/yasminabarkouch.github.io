@@ -23,7 +23,7 @@ Analyzed e-commerce and customer data to drive a 5% revenue increase and improve
 - **LEAP – Academic English Program** – Mount Royal University, April 2024  
 - **IT Specialist AEC** – Cégep de Granby, June 2018  
 - **Cisco CCNA Certification** – June 2008
-- **Technical Diploma, Computer Science - June 2007
+- **Technical Diploma, Computer Science** - June 2007
 - **Baccalaureate in Experimental Sciences** – June 2005
 
 ---
